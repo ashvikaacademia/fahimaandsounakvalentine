@@ -4,7 +4,7 @@ from datetime import date
 import time 
 
 NAME="Sounak"
-MESSAGE="Sounak, \n It’s crazy how something that started so randomly turned into something that feels so right. I asked for a casual Puja date and somehow I got you — the best surprise of my life. In just one month, you’ve become my comfort, my favorite notification, and my safest place. I still think about 23rd January. The quiet road, the sleepy car ride, our heads leaning towards each other, and the moment I said I love you for the first time. It didn’t feel rushed or dramatic,it just felt real. You make the simplest moments feel cinematic. I don’t know what I did to deserve you, but I’m so grateful I did. Happy Valentine’s Day to the boy who turned a random introduction into my favorite love story <3"
+MESSAGE="Sounak, It’s crazy how something that started so randomly turned into something that feels so right. I asked for a casual Puja date and somehow I got you — the best surprise of my life. In just one month, you’ve become my comfort, my favorite notification, and my safest place. I still think about 23rd January. The quiet road, the sleepy car ride, our heads leaning towards each other, and the moment I said I love you for the first time. It didn’t feel rushed or dramatic,it just felt real. You make the simplest moments feel cinematic. I don’t know what I did to deserve you, but I’m so grateful I did. Happy Valentine’s Day to the boy who turned a random introduction into my favorite love story <3"
 year=2026
 month=1
 day=9
