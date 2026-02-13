@@ -3,7 +3,7 @@ import datetime
 from datetime import date
 import time 
 
-NAME="Vivi"
+NAME="Sounak"
 MESSAGE="Hi Poorvi, do you remember the 27th? You know exactly which one I mean, the most special day of my life, the day that means more to me than anything else. That date will always stay close to my heart because it gave me moments I will cherish forever. And do you remember Valentine’s week in 2024? We were standing at the auto stand and you had your favorite flower in your hands. I didn’t give it to you right away and you were a little upset with me, but when I finally did, you took it so gently and placed it inside your diary like it was something precious. That moment still makes me smile because it was not just about a flower, it was about us. And now here we are, another Valentine’s Day, your Valentine’s Day. This past year has been so beautiful. Yes, there were some hurdles along the way and we both know that, but what matters most is that we faced them together. Every challenge only made us stronger and brought us closer. Poorvi , I just want you to know how deeply I love you. You mean the world to me. You are my peace, my happiness, my strength. You are my home and my safe place. In you I find everything I need. You truly are my everything. On this Valentine’s Day I just want to promise you that my love for you will always remain pure and true. I want to stand beside you in every season of life, in laughter and in tears, in success and in struggle. I want to celebrate many more 27ths with you, create countless new memories and keep choosing you every single day. Happy Valentine’s Day my love. Forever yours."
 year=2023
 month=5
