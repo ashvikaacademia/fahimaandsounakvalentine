@@ -69,7 +69,7 @@ def story_page():
 
     col1, col2, col3 = st.columns([1, 4, 1]) 
     with col2:
-        st.image("sakshandvivi.jpeg",width=500)
+        st.image("fahimaandsounak.jpeg",width=500)
 
     if st.button("Next 🎀"):
         st.session_state.page=3
